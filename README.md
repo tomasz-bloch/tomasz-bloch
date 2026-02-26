@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Moje statystyki GitHub](https://github-readme-stats.vercel.app/api?username=tomasz-bloch&show_icons=true&theme=dark)
 <!--
 **tomasz-bloch/tomasz-bloch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
