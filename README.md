@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://komarev.com/ghpvc/?username=tomasz-bloch&color=00599C&style=flat-square&label=Profile+Views" alt=Licznik odwiedzin />
 </p>
 
 ## Stats
@@ -22,6 +23,6 @@
   <img src="https://streak-stats.demolab.com/?user=tomasz-bloch&theme=tokyonight" height="170" alt="GitHub Streak" />
 </div>
 <br>
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats-three-mauve-e4i0zwkqxh.vercel.app/api/top-langs/?username=tomasz-bloch&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
