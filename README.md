@@ -1,5 +1,8 @@
 # Tomasz Bloch
-### bloch.tomasz2@gmail.com
+
+<a href="mailto:bloch.tomasz2@gmail.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&width=435&lines=bloch.tomasz2@gmail.com" alt="Wyślij e-mail" />
+</a>
 
 ## Tech Stack
 
@@ -14,11 +17,12 @@
   <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://komarev.com/ghpvc/?username=tomasz-bloch&color=00599C&style=flat-square&label=Profile+Views" alt=Licznik odwiedzin />
+  <img src="https://github-profile-trophy.vercel.app/?username=tomasz-bloch&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy" alt=trophy />
 </p>
 
 ## Stats
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats-three-mauve-e4i0zwkqxh.vercel.app/api?username=tomasz-bloch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Stats" height="170" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=tomasz-bloch&theme=tokyonight" height="170" alt="GitHub Streak" />
 </div>
