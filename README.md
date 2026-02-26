@@ -24,4 +24,4 @@
 <p align="center">
   <img src="https://github-readme-stats-three-mauve-e4i0zwkqxh.vercel.app/api?username=tomasz-bloch&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true" alt="Statystyki GitHub" />
 </p>
-```http://googleusercontent.com/image_generation_content/0
+```http://googleusercontent.com/image_generation_content/0```
