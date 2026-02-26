@@ -1,5 +1,10 @@
 ## Hi there 👋
-![Moje statystyki GitHub](https://github-readme-stats.vercel.app/api?username=tomasz-bloch&show_icons=true&theme=dark)
+![Moje statystyki GitHub](https://github-readme-stats.vercel.app/api?username=tomasz-bloch&show_icons=true&theme=tokyonight)
+
+![Używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasz-bloch&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=tomasz-bloch&theme=tokyonight)
+
 <!--
 **tomasz-bloch/tomasz-bloch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
