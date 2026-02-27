@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://komarev.com/ghpvc/?username=tomasz-bloch&color=00599C&style=flat-square&label=Profile+Views" alt=Licznik odwiedzin />
-  <img src="https://github-profile-trophy.vercel.app/?username=tomasz-bloch&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy" alt=trophy />
 </p>
 
 ## Stats
